@@ -59,7 +59,7 @@ export function ProfileImage({
           )}
 
           <div className="text-white text-xl font-semibold">
-            {open ? "Close Chat" : "Chat with Pius AI"}
+            {open ? "Close Chat" : "Chat with Annet AI"}
           </div>
           <div className="text-white/80 text-sm">
             {open ? "Click to close chat" : "Click to open chat"}
