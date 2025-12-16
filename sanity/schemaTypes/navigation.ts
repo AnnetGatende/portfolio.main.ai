@@ -16,7 +16,7 @@ export default defineType({
       title: "Link URL",
       type: "string",
       description:
-        "Page anchor (e.g., '#about') or external URL (e.g., 'https://github.com/username')",
+        "Page anchor (e.g., '#about') or external URL (e.g., 'https://github.com/AnnetGatende')",
       validation: (Rule) => Rule.required(),
     }),
     defineField({
